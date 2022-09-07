@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 Simple shell Project:
@@ -29,4 +30,11 @@ All code written by Victor Okeke & Chioma Izuokwu
 Authors 👤 Vicky2k 👤 Chiomaizuokwu
 
 Vicky2k & Chiomaizuokwu @ ALX software engineering programme 2022.
+=======
+ALX C Programming Group Project
+
+C- 0x16 Simple Shell
+
+Collaborators-Victor Okeke and Chioma Izuokwu
+>>>>>>> fc572cd45a4c008ab8b9079669b739f55915943b
 
