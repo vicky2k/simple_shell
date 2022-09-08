@@ -152,5 +152,4 @@ void cd_to_home(data_shell *datash)
 	}
 
 	if (chdir(home) == -1)
-	{
 		get_error(datash, 2);
